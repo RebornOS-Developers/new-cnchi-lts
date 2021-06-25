@@ -3,8 +3,8 @@
 pkgname=new-cnchi-lts
 _pkgname2=new-cnchi-code-lts
 _pkgname3=locale
-pkgver=20210618
-pkgrel=3
+pkgver=20210625
+pkgrel=1
 pkgdesc='New cnchi LTS code installer'
 arch=('any')
 url='https://gitlab.com/rebornos-team/installers/cnchi/code'

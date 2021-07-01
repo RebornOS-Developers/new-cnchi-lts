@@ -7,7 +7,7 @@ pkgver=20210630
 pkgrel=1
 pkgdesc='New cnchi LTS code installer'
 arch=('any')
-url='https://gitlab.com/rebornos-team/installers/cnchi/code'
+url='https://github.com/RebornOS-Developers'
 license=('GPL3')
 source=("git+${url}/${_pkgname2}"
         "git+${url}/${_pkgname3}")
